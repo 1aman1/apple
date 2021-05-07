@@ -1,5 +1,5 @@
-# apple
-Game project developed using free and open 3D-Creation Software
+# Apple
+### Game project developed using free and open 3D-Creation Software
 
 
 A game project developed using free and open 3D-Creation Software 'Blender'.
